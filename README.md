@@ -36,7 +36,7 @@ This project required the use of several software packages.
 
 2. Wolfram Mathematica Version 11.3
 
-3 Matlab Version R2018	  
+3. Matlab Version R2018	  
 
 4. Microsoft Excel 
 
