@@ -76,8 +76,7 @@ Socio-Economic Panel (SOEP),data for years 1984-2014, version 31
 
 ***************Tables*********************
 
-Table 2 : 
-		
+Table 2 : 		
   		~\HSV\do\regs.do
 
 Table 3: 
